@@ -1,0 +1,76 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ----------------------
+# Data files
+# ----------------------
+*.csv
+*.tsv
+*.dta
+*.sav
+*.xls
+*.xlsx
+*.rds
+*.rdata
+*.feather
+*.parquet
+*.h5
+
+# Outputs & results
+/results/
+/outputs/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.eps
+
+# ----------------------
+# LaTeX build files
+# ----------------------
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# ----------------------
+# IDE and system junk
+# ----------------------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Secrets and config
+# ----------------------
+.env
+secrets.json
+config.yaml
