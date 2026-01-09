@@ -1,0 +1,5 @@
+# Make Jupyter notebooks diff as text, not binary
+*.ipynb text
+
+# Tell GitHub these are notebooks (not generic JSON)
+*.ipynb linguist-language=Jupyter
