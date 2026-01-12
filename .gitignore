@@ -31,16 +31,6 @@ env/
 *.parquet
 *.h5
 
-# Outputs & results
-/results/
-/outputs/
-*.pdf
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.eps
-
 # ----------------------
 # LaTeX build files
 # ----------------------
