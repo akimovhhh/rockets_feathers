@@ -66,3 +66,7 @@ Thumbs.db
 .env
 secrets.json
 config.yaml
+
+# macOS junk
+.DS_Store
+._.DS_Store
