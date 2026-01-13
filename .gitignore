@@ -30,6 +30,8 @@ env/
 *.feather
 *.parquet
 *.h5
+*.txt
+*.TXT
 
 # ----------------------
 # LaTeX build files
