@@ -68,5 +68,6 @@ secrets.json
 config.yaml
 
 # macOS junk
-.DS_Store
-._.DS_Store
+*.DS_Store
+*._.DS_Store
+*.code-workspace
