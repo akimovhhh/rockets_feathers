@@ -52,6 +52,7 @@ env/
 *.snm
 *.vrb
 
+
 # ----------------------
 # IDE and system junk
 # ----------------------
@@ -74,3 +75,6 @@ config.yaml
 *.code-workspace
 ._rockets_feathers.code-workspace
 rockets_feathers.code-workspace
+
+# Protect nielsen data
+*nielsen*
